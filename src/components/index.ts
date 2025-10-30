@@ -1,1 +1,0 @@
-export { BettingCard } from './BettingCard';
